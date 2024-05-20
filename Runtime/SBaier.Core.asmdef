@@ -1,6 +1,6 @@
 {
     "name": "SBaier.Core",
-    "rootNamespace": "SBaier.Core",
+    "rootNamespace": "SBaier",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

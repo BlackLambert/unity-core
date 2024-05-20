@@ -1,4 +1,4 @@
-namespace SBaier.Astrominer
+namespace SBaier
 {
     public class Observable<T>
     {

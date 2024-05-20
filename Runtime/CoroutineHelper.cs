@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SBaier.Astrominer
+namespace SBaier
 {
     public class CoroutineHelper : MonoBehaviour
     {
