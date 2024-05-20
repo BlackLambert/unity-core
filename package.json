@@ -1,0 +1,22 @@
+{
+  "name": "com.sbaier.core",
+  "version": "1.0.0",
+  "displayName": "Unity Packages Core",
+  "description": "Core of the BlackLambert packages",
+  "unity": "2021.2",
+  "unityRelease": "",
+  "documentationUrl": "https://github.com/BlackLambert/unity-core",
+  "changelogUrl": "https://github.com/BlackLambert/unity-core/releases/tag/v1.0.0",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+ "keywords": [
+    "core",
+    "BlackLambert"
+  ],
+  "author": {
+    "name": "Sebastian Baier",
+    "email": "sebastian.baier93@hotmail.de",
+    "url": ""
+  }
+}
