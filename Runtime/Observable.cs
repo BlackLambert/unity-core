@@ -1,6 +1,6 @@
 namespace SBaier
 {
-    public class Observable<T>
+    public class Observable<T> : ReadonlyObservable<T>
     {
         public delegate void ValueChanged(T formerValue, T newValue);
             
