@@ -1,12 +1,12 @@
 {
   "name": "com.sbaier.core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Packages Core",
   "description": "Core of the BlackLambert packages",
   "unity": "2021.2",
   "unityRelease": "",
   "documentationUrl": "https://github.com/BlackLambert/unity-core",
-  "changelogUrl": "https://github.com/BlackLambert/unity-core/releases/tag/v1.0.0",
+  "changelogUrl": "https://github.com/BlackLambert/unity-core/releases/tag/v1.0.1",
   "licensesUrl": "",
   "dependencies": {
  },
